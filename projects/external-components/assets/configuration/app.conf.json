@@ -1,1 +1,48 @@
-{}
+{
+  "beginner's-LUCK": {
+    "headerField": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/header.field.json"
+    },
+    "headerSection": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/header.section.json"
+    },
+    "field": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/body.field.json"
+    },
+    "section": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/body.section.json"
+    },
+    "footerField": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/footer.field.json"
+    },
+    "footerSection": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/footer.section.json"
+    },
+    "data": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/body.data.json"
+    },
+    "navField": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/nav.field.json"
+    },
+    "navSection": {
+      "fetchFromLocal": true,
+      "localURL": "./assets/pageLayout/beginner's-LUCK/beginner's-LUCK/nav.section.json"
+    },
+    "authGuardConfig": {
+      "enabled": false,
+      "conditions": []
+    },
+    "globalPageSettings": {
+      "title": "beginner's-LUCK",
+      "layoutProperties": null
+    }
+  }
+}
